@@ -9,7 +9,8 @@ As a company in this age having a website following common accessibility practic
 https://joseortiz0918.github.io/horisen-challenge/
 
 ![screenshot of working Horisen webpage](assets/images/joseortiz0918.github.io_horisen-challenge_(1).png)
-
+## Sorce code
+ This project was built upon starter code that was given to me through the class repo. The HTML, CSS style sheet and the images were given to me as the souce code. All changes to those inital files the README and the screenshot are work that i have done to this projcet. 
 
 
 ## License
